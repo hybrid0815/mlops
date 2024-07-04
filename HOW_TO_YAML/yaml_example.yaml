@@ -1,0 +1,24 @@
+version: 1.0
+price: 100
+is_published: true
+release_date: 2021-01-01
+pre_enroll: null
+category:
+  - AWS
+  - DevOps
+  - AWS Certification
+course_dev: ["python", "git", "github"]
+dev_details:
+  - name: python
+    version: 3.8
+    release_date: 2020-10-01
+  - name: git
+    version: 2.29
+    release_date: 2020-10-01
+  - name: github
+    version: 2.29
+    release_date: 2020-10-01
+  - {name: jenkins, version: 2.29, release_date: 2020-10-01}
+short_description: >
+  This is a short description of the course.
+  Certifications: AWS Certified Solutions Architect - Associate, AWS Certified Developer - Associate
